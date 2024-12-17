@@ -1,5 +1,14 @@
+@font-face {
+    font-family: BacktoBlackDemo;
+    src: url('D:\Proyecto\Fonts\BacktoBlackDemo.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'BacktoBlackDemo', Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
     margin: 0;
     padding: 0;
     background-color: #f0f0f0;

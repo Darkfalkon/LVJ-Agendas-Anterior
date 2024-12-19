@@ -33,10 +33,14 @@ header, footer {
 
 .footer.img{
     margin-top: 10px;
-    width: 50px;
+    width: 10px;
     height: auto;
     opacity: 0.8;
     transition: opacity 0.3s;
+}
+
+.footer-img:hoover {
+    opacity: 1;
 }
 
 nav ul {
